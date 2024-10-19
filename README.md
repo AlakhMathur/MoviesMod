@@ -156,7 +156,7 @@ To start the app, run the following command:
 - Each movie card leads to a detailed page where the trailer auto-plays, and additional movie information is displayed, such as the cast, crew, and description.
 
 ## 🧑‍💻 Contributors
-- Sachin Singh - [GitHub](https://github.com/sachinsingh45)
+- Alakh Mathur - [GitHub](https://github.com/AlakhMathur)
 
 ## 🎉 Acknowledgements
 A big thanks to the following for providing amazing APIs:
